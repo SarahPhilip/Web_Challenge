@@ -20,7 +20,7 @@ body {
     background-color: lightgray;
 }
 .container { 
-  padding: 45px !important;
+  padding-top: 45px !important;
 }
 
 .nopadding {
@@ -33,10 +33,4 @@ body {
     padding-bottom: 23px;
     line-height: 24px;
   }
-}
-
-@media only screen and (min-width: 768px) {
-    /* For desktop: */
-    .col-xl-5 {width: 100%}
-    .col-lg-6 {width: 100%;}
 }
