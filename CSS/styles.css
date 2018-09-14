@@ -33,4 +33,8 @@ body {
     padding-bottom: 23px;
     line-height: 24px;
   }
+
+  .col-sm-12 {
+    width: 100%;
+  }
 }
